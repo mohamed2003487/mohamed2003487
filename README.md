@@ -32,8 +32,3 @@ I'm always open to collaborations, discussions, or just a friendly chat! Feel fr
 - 📧 **Email**: [mohamed.20ibrahim03@gmail.com](mailto:mohamed.20ibrahim03@gmail.com)  
 - 💼 **LinkedIn**: [Mohamed Ibrahim](www.linkedin.com/in/mohamed-ibrahim-computer-scince-engineering-04b870271)  
 - 📘 **Facebook**: [Mohamed Ibrahim](https://www.facebook.com/profile.php?id=100012677443919)  
-
----
-
-## 🌟 Fun Fact  
-When I'm not coding or analyzing data, I enjoy [insert a hobby or fun fact about yourself here!].  
