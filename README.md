@@ -1,5 +1,5 @@
-# Mohamed Ibrahim  
-### Data Scientist  
+# Mohamed Ibrahim   
+### Data Analyst 📊  
 
 👋 Hi there! I'm **Mohamed Ibrahim**, a third-year student at the **Faculty of Computer Science and Information Technology**, **Misr University for Science and Technology (MUST)**. I'm passionate about **Machine Learning**, **Data Science**, and leveraging data to solve real-world problems. I enjoy working on projects that involve data analysis, visualization, and predictive modeling.  
 
@@ -8,21 +8,27 @@
 ## 🛠️ Skills and Technologies  
 Here are some of the tools and technologies I work with:  
 
-### Programming Languages  
-- Python, C++, SQL  
+### 💻 Programming Languages  
+- 🐍 Python, C++, SQL  
 
-### Data Science and Machine Learning  
-- NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-- Machine Learning Algorithms (Linear Regression, Random Forest, Gradient Boost, CNN, Logistic Regression)  
-- Feature Engineering, Data Visualization, Model Evaluation  
+### 📈 Data Science and Machine Learning  
+- 📊 NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- 🤖 Machine Learning Algorithms (Linear Regression, Random Forest, Gradient Boost, CNN, Logistic Regression)  
+- 🔍 Feature Engineering, Data Visualization, Model Evaluation  
 
-### Tools and Platforms  
-- Git, GitHub, Jupyter Notebook  
+### 📊 Data Analysis & Visualization  
+- 📌 **Excel (Power Query, Power Pivot)**  
+- 📊 **Power BI**  
+- 🗄️ **SQL**  
+- 📉 **Tableau**  
 
-### Concepts  
-- Object-Oriented Programming (OOP)  
-- Data Structures and Algorithms  
-- Natural Language Processing (NLP)  
+### ⚙️ Tools and Platforms  
+- 🌍 Git, GitHub, Jupyter Notebook  
+
+### 🔥 Concepts  
+- 🎯 Object-Oriented Programming (OOP)  
+- 🏗️ Data Structures and Algorithms  
+- 🗣️ Natural Language Processing (NLP)  
 
 ---
 
