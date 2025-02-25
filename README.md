@@ -36,5 +36,5 @@ Here are some of the tools and technologies I work with:
 I'm always open to collaborations, discussions, or just a friendly chat! Feel free to reach out:  
 
 - 📧 **Email**: [mohamed.20ibrahim03@gmail.com](mailto:mohamed.20ibrahim03@gmail.com)  
-- 💼 **LinkedIn**: [Mohamed Ibrahim](www.linkedin.com/in/‪mohamed-ibrahim‬‏-04b870271)  
-- 📘 **Facebook**: [Mohamed Ibrahim](https://www.facebook.com/profile.php?id=100012677443919)  
+- 💼 **LinkedIn**: [Mohamed Ibrahim](www.linkedin.com/in/mohammed-ubrahim)  
+- 📘 **Facebook**: [Mohamed Ibrahim](https://www.facebook.com/mohammed.ubrahem)  
